@@ -1,0 +1,50 @@
+{
+  "settings" : {
+    "analysis" : {
+      "analyzer" : {
+        "my_TFIDF_analyzer" : {
+          "tokenizer" : "standard",
+          "filter" : ["lowercase","my_stop","baseform"]
+
+        }
+      },
+      "filter": {
+        "baseform": {
+          "type": "baseform",
+          "name": "en"
+        },
+        "my_stop": {
+                    "type":       "stop",
+                    "stopwords":  "_english_"
+        }
+
+      }
+    }
+  },
+  "mappings":{
+     "article":{
+        "properties":{
+          "pmcid":{
+              "type":"string"
+          },
+           "title":{
+              "analyzer":"my_TFIDF_analyzer",
+              "type":"string",
+             "boost" : 3
+
+
+           },
+          "abstract":{
+              "analyzer":"my_TFIDF_analyzer",
+              "type":"string"
+              "boost" : 1
+          },
+          "body":{
+              "analyzer":"my_TFIDF_analyzer",
+              "type":"string"
+              "boost" : 2
+          }
+        }
+     }
+  }
+}
