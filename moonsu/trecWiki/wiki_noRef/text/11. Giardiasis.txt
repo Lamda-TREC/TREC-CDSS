@@ -1,0 +1,108 @@
+Giardiasi
+s 
+Giardiasis (popularly known as beaver fever)[1] is a zoonotic parasitic disease caused by the flagellate protozoan 
+Giardia lamblia (also sometimes called Giardia intestinalis and Giardia duodenalis).[2] The giardia organism 
+inhabits the digestive tract of a wide variety of domestic and wild animal species, as well as humans. It is the most 
+common pathogenic parasitic infection in humans worldwide; in 2013, there were about 280 million people 
+worldwide with symptomatic giardiasis.[2] 
+1 Signs and symptoms 
+Symptoms include weakness in the body, loss of appetite, diarrhea, loose or watery stools, stomach cramps, upset 
+stomach, projectile vomiting (uncommon), bloating, excessive gas, and burping (often sulfurous). Symptoms 
+typically develop 9–15 days after exposure,[3] but may occur as early as one day.[4] 
+Symptoms are caused by Giardia organisms infecting the cells of the duodenum and jejunum of the small 
+intestine[3] and blocking nutrient absorption. Most people are asymptomatic; only about a third of infected people 
+exhibit symptoms. If the infection is not treated, these symptoms may last for six weeks or more. 
+Symptomatic infections are well recognized as causing lactose intolerance,[5] which, while usually temporary, may 
+become permanent.[6][7] Although hydrogen breath tests indicate poorer rates of carbohydrate absorption in those 
+asymptomatically infected, such tests are not diagnostic of infection.[8] It has been suggested that these 
+observations are explained by symptomatic giardia infection allowing for the overgrowth of other bacteria.[8][9] 
+Some studies have shown giardiasis should be considered as a cause of vitamin B12 deficiency as a result of the 
+problems caused within the intestinal absorption system.[10] 
+2 Cause 
+Giardiasis is caused by the protozoan Giardia lamblia.[11] The infection occurs in many animals including beavers, 
+cows, rodents, and sheep.[11] Animals are believed to play a role in keeping infections present in an environment.[11] 
+2.1 Risk factors 
+According to the CDC, “those at greatest risk are travelers to countries where giardiasis is common, people in 
+child care settings, those who are in close contact with someone who has the disease, people who swallow 
+contaminated drinking water, backpackers or campers who drink untreated water from lakes or rivers, people 
+who have contact with animals who have the disease, and men who have sex with men.”[12] 
+It occurs more often during the summer in the United States.[11] This is believed to be due to a greater amount 
+of time spent on outdoor activities.[11] 
+Wilderness travel within the United States is believed to be a risk factor with poorly treated or untreated water 
+playing a role.[11] 
+2.2 Transmission 
+Giardiasis is transmitted via the fecal-oral route with the ingestion of cysts.[3] Primary routes are personal contact 
+and contaminated water and food.[3] The cysts can stay infectious for up to three months in cold water.[11] 
+Not all Giardia infections are symptomatic, and many people can unknowingly serve as carriers of the 
+parasite.[13] 
+3 Pathophysiology 
+Giardia are flagellated protozoans that cause decreased expression of brush border enzymes, morphological 
+changes to the microvillus, and programmed cell death of small intestinal epithelial cells. There is no invasion 
+of giardia trophozoites, and small intestinal morphology may appear normal in light microscopy. 
+The attachment of trophozoites causes villus flattening and inhibition of enzymes that break down dissacharide 
+sugars in the intestines. Ultimately, the community of microorganisms that lives in the intestine may overgrow 
+and may be the cause of further symptoms, though this idea has not been fully investigated. The alteration of 
+the villi leads to an inability of nutrient and water absorption from the intestine, resulting in diarrhea, one of the 
+predominant symptoms. In the case of asymptomatic giardiasis, there can be malabsorption with or without 
+histological changes to the small intestine. The degree to 
+1 
+which malabsorption occurs in symptomatic and asymptomatic cases is highly varied. 
+The species Giardia intestinalis uses enzymes that break down proteins to attack the villi of the brush border and 
+appears to increase crypt cell proliferation and crypt length of crypt cells existing on the sides of the villi. On an 
+immunological level, activated host T lymphocytes attack endothelial cells that have been injured in order to 
+remove the cell. This occurs after the disruption of proteins that connect brush border endothelial cells to one 
+another. The result is heavily increased intestinal permeability. 
+There appears to be a further increase in programmed cell death by Giardia intestinalis, which further damages 
+the intestinal barrier and increases permeability. There is significant upregulation of the programmed cell death 
+cascade by the parasite, and, furthermore, substantial downregulation of the anti-apoptotic protein Bcl-2 and 
+upregulation of the proapoptotic protein Bax. These connections suggest a role of caspase-dependent apoptosis in 
+the pathogenesis of giardiasis. 
+Giardia protects its own growth by reducing the formation of the gas nitric oxide by consuming all local arginine, 
+which is the amino acid necessary to make nitric oxide. Arginine starvation is known to be a cause of programmed 
+cell death, and local removal is a strong apoptotic agent.[14] 
+4 Diagnosis 
+• According to the CDC, detection of antigens on the surface of organisms in stool specimens is the current 
+test of choice for diagnosis of giardiasis and provides increased sensitivity over more common microscopy 
+techniques.[15] 
+2 6 TREATMENT 
+• A trichrome stain of preserved stool is another method used to detect giardia.[16] • Microscopic examination 
+of the stool for motile trophozoites or for the distinctive oval G.lamblia cysts can be performed. 
+• The entero-test uses a gelatin capsule with an attached thread. One end is attached to the inner aspect of the 
+patient’s cheek, and the capsule is swallowed. Later, the thread is withdrawn and shaken in saline to release 
+trophozoites which can be detected with a microscope. 
+• Immunologic enzyme-linked immunosorbent assay (ELISA) testing is now available. These tests are capable 
+of a 90% detection rate or more.[17] 
+• Because Giardia lamblia is difficult to detect, this often leads to a delay in diagnosis or misdiagnosis; several 
+tests should be conducted over a one-week period.[18] 
+5 Prevention 
+The CDC recommends hand-washing and avoiding potentially contaminated food and untreated water. [19] 
+Boiling suspect water for one minute is the surest method to make water safe to drink and kill disease-causing 
+microorganisms such as Giardia lamblia if in doubt about whether water is infected.[20] Chemical disinfectants or 
+filters may be used.[21][22] 
+According to a review of the literature from 2000, there is little evidence linking the drinking of water in the N. 
+American wilderness and Giardia.[23] The researcher notes that treatment of drinking water for Giardia may not 
+be as important as recommended hand-washing in wilderness regions in North America.[23] CDC surveillance data 
+(for 2005 and 2006) reports one outbreak (6 cases) of waterborne giardiasis contracted from drinking wilderness 
+river water in Colorado.[24] However, less than 1% of reported giardiasis cases are associated with outbreaks.[25] 
+6 Treatment 
+Treatment is not always necessary as the infection usually resolves on its own. However, if the illness is acute or 
+symptoms persist and medications are needed to treat it, a nitroimidazole medication is used such as metronidazole, 
+tinidazole, secnidazole or ornidazole.[3] 
+In the US and other countries, the medication of choice used to treat giardiasis is metronidazole. In the EU a 
+single dose of tinidazole is considered to be a first-line 
+agent.[26] 
+While tinidazole has similar side effects and efficacy to metronidazole, it is administered with a single dose.[13] 
+Current research evidence suggests albendazole is probably as effective as metronidazole, but has fewer 
+gastrointestinal and neurological side effects and is more convenient to take or administer.[27] Both medications 
+need a five to 10 day long course; albendazole is taken once a day, while metronidazole needs to be taken three 
+times a day. A comparison of multiple drugs (tinidazole, nitazoxanide, metronidazole, albendazole) also favoured 
+albendazole in preference to metronidazole, but did not draw any conclusions on the effectiveness of the other 
+drugs due to a lack of reliable evidence.[28] 
+In the case of nitroimidazole-resistant strains of Giardia, other drugs are available which have showed efficacy in 
+treatment: quinacrine, nitazoxanide, bacitracin zinc, furazolidone and paromomycin.[13] 
+During pregnancy, paromomycin is the preferred treatment drug because of its poor intestinal absorption.[29] 
+7 Epidemiology 
+In some developing countries Giardia is present in 30% of the population.[11] In the United States it is estimated 
+that it is present in 3–7% of the population.[11] 
+8 Research 
+Some intestinal parasitic infections may play a role in irritable bowel syndrome.[30] 
